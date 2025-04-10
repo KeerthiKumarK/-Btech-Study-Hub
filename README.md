@@ -1,28 +1,40 @@
-At BTech Study Hub, we understand the challenges and complexities students face during their BTech education. That's why we're dedicated to providing a platform 
-that offers unparalleled academic assistance, guidance, and a supportive community to empower students in achieving their academic goals. Whether you're navigating through 
-challenging coursework, preparing for exams, or seeking career advice.
+# 🎓 BTech Study Hub
 
-MCQ Bank:
+An educational platform built to assist BTech students by providing study materials, MCQs, textbooks, tutorials, and real-time collaboration features.  
+Designed to make learning more accessible, interactive, and engaging for engineering students.
 
-A wide collection of multiple-choice questions (MCQs) organized by subject and topic.
-Allows students to practice for exams with varying levels of difficulty.
-Immediate feedback is provided to help students track their progress and identify areas of improvement.
-Textbook Repository:
+---
 
-A digital library containing textbooks and reference materials for a range of engineering subjects.
-Provides easy access to academic resources for students to enhance their study process.
-Tutorials:
+## 📌 Tech Stack
 
-Comprehensive tutorials designed to explain complex concepts in a simple and engaging way.
-Covers topics from basic to advanced levels, making it useful for students at different stages of their learning journey.
-Skill Development Courses (Beyond Academics):
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Node.js, Express.js, MongoDB
+- **Real-Time Communication:** Socket.io
 
-A special section focused on non-academic skill development, offering courses on coding, soft skills, project management, and more.
-Prepares students for professional challenges by helping them develop practical skills beyond the classroom curriculum.
-Chat Collaboration:
+---
 
-A real-time chat feature that allows students to collaborate with peers, ask questions, and discuss topics.
-Enables group study sessions and provides a platform for students to share resources and ideas.
+## ✨ Key Features
 
-It features live chat functionality for real-time discussions and collaborative learning. Built using the MERN stack (MongoDB, Express, React, Node.js), the platform 
-offers a user-friendly interface and responsive design to ensure smooth navigation. Additionally, it supports interactive features like live tests and peer communication, enhancing the overall learning experience for engineering students.
+- **MCQ Bank:**  
+  A wide collection of multiple-choice questions organized by subject and topic, with instant feedback to track progress and identify weak areas.
+
+- **Textbook Repository:**  
+  A digital library offering textbooks and reference materials across various engineering subjects for easy access.
+
+- **Tutorials:**  
+  Detailed tutorials explaining complex concepts in a simple, easy-to-understand way — suitable for students at all levels.
+
+- **Skill Development Courses:**  
+  Special courses focused on coding, soft skills, project management, and more, helping students prepare for real-world challenges beyond academics.
+
+- **Chat Collaboration:**  
+  Real-time chat feature using Socket.io where students can ask questions, collaborate on group studies, and discuss topics.
+
+- **Live Tests and Interactive Learning:**  
+  Supports live quizzes and tests to boost engagement and help students evaluate their learning in real-time.
+
+- **Responsive and User-Friendly UI:**  
+  Designed with Bootstrap and custom CSS to provide an intuitive and smooth navigation experience across all devices.
+
+---
+ 
